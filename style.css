@@ -55,7 +55,10 @@ button:hover {
 }
 
 video {
-  width: 100vw;
+  min-height: 100%;
+  min-width: 100%;
+  position: fixed;
+  top: 0;
 }
 
 .mascara {
